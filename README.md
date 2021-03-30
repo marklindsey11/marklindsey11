@@ -14,6 +14,12 @@ with pretrained dynamic cloud-native DB running analytics .
   The data is the primary mission critical element in virtually every OS, discovering exactly which 
 applications are running specific workloads and determine the type of DB that is required to store specific
 Types of data is expected. So that's  my readme, i tend to ramble on.
+     I design and develop non-schema, non-relational NoSQL databases that are purpose built an    
+customized to individual application processes with point-to-point dedicated high performance data 
+connection pools with replicas populating Content Delivery Networks (CDN). So my first step is defining
+what applications the EvE operating enviroment is running, what the processes are, what data type,
+expected volume of data and other specifics I need to build the data model that will provide the power
+to perform compute operations.
             l
 
 <!---
