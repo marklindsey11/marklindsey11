@@ -1,25 +1,22 @@
-- 👋 Hi, I’m @marklindsey11
-- I am a mean action stack designer/creator that uses a test-first development model 
-focused on creeating purpose-built databases enginered for specific workloads processed
- inside  intigrated business enterprise applications that handle the cluster level
- seperately from the instance level  as current generation optimized instance class R5 4xlarge cluster
- siezing primary database read preferred  and multiple secondary replicas  read/write preferred
- for enhanced read/write velocity  with robust working set memory cache with TLS connection endpoints 
-optimized for high throughput  for read-after-write dedicated connection pool and seperate
- secondary consistent (eventually)  connection pool with automatic scaling via Lambda function 
-adding read capacity API that start a new replica instance, so the databases are decoupled from
- the compute and storage with a priority to collect, process and analyze real-time streaming data 
-with high-performance caching for high-volume workloads, and running inference workloads in-memory 
-with pretrained dynamic cloud-native DB running analytics .
-  The data is the primary mission critical element in virtually every OS, discovering exactly which 
-applications are running specific workloads and determine the type of DB that is required to store specific
-Types of data is expected. So that's  my readme, i tend to ramble on.
-     I design and develop non-schema, non-relational NoSQL databases that are purpose built an    
-customized to individual application processes with point-to-point dedicated high performance data 
-connection pools with replicas populating Content Delivery Networks (CDN). So my first step is defining
-what applications the EvE operating enviroment is running, what the processes are, what data type,
-expected volume of data and other specifics I need to build the data model that will provide the power
-to perform compute operations.
+-My intention was to concieve of a novel, and effective, policy-based data science framework to optimize a massively distributed alternative 
+data landscape. By leveraging emerging critical new technological advances in operations and core processes, integrated natively, in an
+architecture which bridges the gap between classical AI responsiveness and theory of mind machine cognition capabilities, thus allowing for 
+the formulation of an enhanced understanding of people and things, and, of feelings and behaviours, all of which are processed within a 
+Engineered Virtual Enviroment (EvE) and represented by a Digital Voice Persona (DVP).
+     The EvE-DVP ecosystem sorts human emotions, sentiments, and thoughts, based on self-learned metrics (SLM) and user interactions, very 
+     similar to KISMET's ability to mimic human emotions, the EvE-DVP discovers patterns, similarities, and relationships, as well as the
+     autonomous recognition of indicators with potential emotional significance which are compiled into usefull dynamic profiles, which form
+     the basis for comparisson analysis, optimized for Positive Content Generation (PCG) that satisfies core desires of human relational,
+     personality, and expression, and measures levels of content and satisfaction, which generates insight into increasing the wellbeing of
+     the user, and tailor-made content delivery to modulate opinion, emotion, and engagement.
+        The EvE-DVP is a Conceptual Awareness Generator (CAG), technically speaking, a limited-memory, reactive and Deep Learning (DL) 
+        modelled hybrid machine which exploits the opportunities of Artificial Narrow Intelligence (ANI) technology, combining General 
+        Intelligence (GI) that applies knowledge and special skills, in different contexts, with autonomous learning and problem solving capabilities
+        that utilizes enhanced memory, faster data processing, analysis, and decision-making, that is augmented by a novel Deep Learning (DL)
+        element of the Machine Learning (ML) subsystem within the Artificial Intelligence (AI) system.
+           The EvE-DVP is a full-scope control plane across the multi-domain ecosystem, using a technological capability and structural
+           maturity methodology which enhances the detection of cognative elements that comprehends, learns, stores and represents knowledge,
+           reason and communications interactions with humans. 
             l
 
 <!---
